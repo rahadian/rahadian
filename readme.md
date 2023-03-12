@@ -12,7 +12,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rahadian&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub metrics](https://metrics.lecoq.io/rahadian)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahadian&theme=tokyonight)
 
 ![Profile views](https://gpvc.arturio.dev/rahadian) 
 [<img align="right" width="390" alt="🦑" src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">](#)
