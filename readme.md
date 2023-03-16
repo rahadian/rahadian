@@ -1,4 +1,4 @@
-### ПРИВЕТ 👋, my name is Rahadian Arya
+### Hello 👋, my name is Rahadian Arya
 🔭 Currently working as database administrator and freelance web developer.
 
 - 🌱 I’m currently learning Python (Django), Laravel, Flutter. 
