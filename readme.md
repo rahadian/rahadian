@@ -7,7 +7,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahadian&show_icons=true&count_private=true)  
 
-[![Rahadian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rahadian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahadian&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahadian&theme=tokyonight)
 
